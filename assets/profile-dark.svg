@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985" height="530" viewBox="0 0 985 530" font-size="16px" role="img" aria-labelledby="title desc">
 <title id="title">Longye Tian · 田垄业</title>
-<desc id="desc">ASCII portrait of Longye Tian. PhD student in Economics at the Australian National University; Lead Developer at QuantEcon. Research: inequality, macroeconomic dynamics, computational economics, Markov dynamics, dynamic programming, and reinforcement learning in economics. Website: longyetian.com. Email: longye.tian@anu.edu.au.</desc>
+<desc id="desc">ASCII portrait of Longye Tian. PhD student in Economics at the Australian National University; Lead Developer at QuantEcon. Research: macroeconomic theory, Markov dynamics, and computational economics. Methods: Markov dynamics, dynamic programming, and reinforcement learning in economics. Research statistics: 2 papers, 1 publication, 1 revise and resubmit, and 2 coauthors. Website: longyetian.com. Email: longye.tian@anu.edu.au.</desc>
 <style>@font-face {src: local("Consolas"), local("Consolas Bold"); font-family: "ConsolasFallback"; font-display: swap; -webkit-size-adjust:109%; size-adjust:109%;}
 .key {fill:#ffa657;} .value {fill:#a5d6ff;} .cc {fill:#616e7f;}
 text,tspan {white-space:pre;} .portrait {font-family:"DejaVu Sans Mono",Consolas,"Liberation Mono",monospace;}</style>
@@ -61,8 +61,8 @@ text,tspan {white-space:pre;} .portrait {font-family:"DejaVu Sans Mono",Consolas
 <text x="390" y="110" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Open Source</tspan><tspan>:</tspan><tspan class="cc"> .................................. </tspan><tspan class="value">QuantEcon</tspan></text>
 <text x="390" y="130" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Position</tspan><tspan>:</tspan><tspan class="cc"> ................................ </tspan><tspan class="value">Lead Developer</tspan></text>
 <text x="390" y="150" xml:space="preserve"><tspan class="cc">. </tspan></text>
-<text x="390" y="170" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Research</tspan><tspan>:</tspan><tspan class="cc"> .................................... </tspan><tspan class="value">Inequality</tspan></text>
-<text x="390" y="190" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Research</tspan><tspan>:</tspan><tspan class="cc"> ........................ </tspan><tspan class="value">Macroeconomic dynamics</tspan></text>
+<text x="390" y="170" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Research</tspan><tspan>:</tspan><tspan class="cc"> .......................... </tspan><tspan class="value">Macroeconomic theory</tspan></text>
+<text x="390" y="190" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Research</tspan><tspan>:</tspan><tspan class="cc"> ............................... </tspan><tspan class="value">Markov dynamics</tspan></text>
 <text x="390" y="210" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Research</tspan><tspan>:</tspan><tspan class="cc"> ....................... </tspan><tspan class="value">Computational economics</tspan></text>
 <text x="390" y="230" xml:space="preserve"><tspan class="cc">. </tspan></text>
 <text x="390" y="250" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Methods</tspan><tspan>.</tspan><tspan class="key">Dynamics</tspan><tspan>:</tspan><tspan class="cc"> ....................... </tspan><tspan class="value">Markov dynamics</tspan></text>
@@ -75,9 +75,9 @@ text,tspan {white-space:pre;} .portrait {font-family:"DejaVu Sans Mono",Consolas
 <text x="390" y="390" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan>:</tspan><tspan class="cc"> ..................................... </tspan><tspan class="value">longye-tian</tspan></text>
 <text x="390" y="410" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Location</tspan><tspan>:</tspan><tspan class="cc"> ........................... </tspan><tspan class="value">Canberra, Australia</tspan></text>
 <text x="390" y="430" xml:space="preserve"><tspan class="cc">. </tspan></text>
-<text x="390" y="450" xml:space="preserve"><tspan>- Research Papers -——————————————————————————————————————-</tspan></text>
-<text x="390" y="470" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Theory</tspan><tspan>:</tspan><tspan class="cc"> ................. </tspan><tspan class="value">R&amp;R, Journal of Economic Theory</tspan></text>
-<text x="390" y="490" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Macro</tspan><tspan>:</tspan><tspan class="cc"> ................ </tspan><tspan class="value">Australian Economic Review (2026)</tspan></text>
-<text x="390" y="510" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Coauthors</tspan><tspan>:</tspan><tspan class="cc"> ................... </tspan><tspan class="value">Ian Crawford, James Morley</tspan></text>
+<text x="390" y="450" xml:space="preserve"><tspan>- Research Stats -———————————————————————————————————————-</tspan></text>
+<text x="390" y="470" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Papers</tspan><tspan>:</tspan><tspan class="cc"> ............................................... </tspan><tspan class="value">2</tspan></text>
+<text x="390" y="490" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Publications / R&amp;R</tspan><tspan>:</tspan><tspan class="cc"> ............................... </tspan><tspan class="value">1 / 1</tspan></text>
+<text x="390" y="510" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Coauthors</tspan><tspan>:</tspan><tspan class="cc"> ............................................ </tspan><tspan class="value">2</tspan></text>
 </g>
 </svg>

@@ -1,10 +1,10 @@
 <!-- Terminal / ASCII layout inspired by https://github.com/Andrew6rant/Andrew6rant. -->
 <a href="https://longyetian.com/">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/longye-tian/longye-tian/main/assets/profile-dark-mobile.svg?v=2">
-    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/longye-tian/longye-tian/main/assets/profile-light-mobile.svg?v=2">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/longye-tian/longye-tian/main/assets/profile-dark.svg?v=2">
-    <img src="https://raw.githubusercontent.com/longye-tian/longye-tian/main/assets/profile-light.svg?v=2" width="985" alt="Longye Tian · 田垄业 — PhD student in Economics at the Australian National University and Lead Developer at QuantEcon. Research interests: inequality, macroeconomic dynamics, computational economics, Markov dynamics, dynamic programming, and reinforcement learning in economics.">
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/longye-tian/longye-tian/main/assets/profile-dark-mobile.svg?v=3">
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/longye-tian/longye-tian/main/assets/profile-light-mobile.svg?v=3">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/longye-tian/longye-tian/main/assets/profile-dark.svg?v=3">
+    <img src="https://raw.githubusercontent.com/longye-tian/longye-tian/main/assets/profile-light.svg?v=3" width="985" alt="Longye Tian · 田垄业 — PhD student in Economics at the Australian National University and Lead Developer at QuantEcon. Research: macroeconomic theory, Markov dynamics, and computational economics. Methods: Markov dynamics, dynamic programming, and reinforcement learning in economics. Research statistics: 2 papers, 1 publication, 1 revise and resubmit, and 2 coauthors.">
   </picture>
 </a>
 
