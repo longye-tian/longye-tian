@@ -1,14 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="980" height="610" viewBox="0 0 980 610" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985" height="530" viewBox="0 0 985 530" font-size="16px" role="img" aria-labelledby="title desc">
 <title id="title">Longye Tian · 田垄业</title>
 <desc id="desc">ASCII portrait of Longye Tian. PhD student in Economics at the Australian National University; Lead Developer at QuantEcon. Research: inequality, macroeconomic dynamics, computational economics, Markov dynamics, dynamic programming, and reinforcement learning in economics. Website: longyetian.com. Email: longye.tian@anu.edu.au.</desc>
-<style>text{font-family:"DejaVu Sans Mono",Consolas,"Liberation Mono",monospace} .portrait{white-space:pre}</style>
-<rect x=".5" y=".5" width="979" height="609" rx="13" fill="#f6f8fa" stroke="#d1d9e0"/>
-<path d="M1 54H979" stroke="#d1d9e0"/>
-<circle cx="25" cy="28" r="4.5" fill="#f85149"/>
-<circle cx="43" cy="28" r="4.5" fill="#d29922"/>
-<circle cx="61" cy="28" r="4.5" fill="#3fb950"/>
-<text x="90" y="34" fill="#59636e" font-size="16" >~/longye-tian</text>
-<g transform="translate(25,116) scale(1)" aria-hidden="true">
+<style>@font-face {src: local("Consolas"), local("Consolas Bold"); font-family: "ConsolasFallback"; font-display: swap; -webkit-size-adjust:109%; size-adjust:109%;}
+.key {fill:#953800;} .value {fill:#0a3069;} .cc {fill:#c2cfde;}
+text,tspan {white-space:pre;} .portrait {font-family:"DejaVu Sans Mono",Consolas,"Liberation Mono",monospace;}</style>
+<rect width="985" height="530" rx="15" fill="#f6f8fa"/>
+<g transform="translate(25,90) scale(1)" aria-hidden="true">
 <text x="0" y="0" fill="#34424f" font-size="9.05" xml:space="preserve" class="portrait" textLength="348.8" lengthAdjust="spacingAndGlyphs">                                                                </text>
 <text x="0" y="8" fill="#34424f" font-size="9.05" xml:space="preserve" class="portrait" textLength="348.8" lengthAdjust="spacingAndGlyphs">                          hMSG                                  </text>
 <text x="0" y="16" fill="#34424f" font-size="9.05" xml:space="preserve" class="portrait" textLength="348.8" lengthAdjust="spacingAndGlyphs">                    5hHG#SSB@@@@@&amp;#MA                           </text>
@@ -56,36 +53,31 @@
 <text x="0" y="352" fill="#34424f" font-size="9.05" xml:space="preserve" class="portrait" textLength="348.8" lengthAdjust="spacingAndGlyphs">                                                                </text>
 <text x="0" y="360" fill="#34424f" font-size="9.05" xml:space="preserve" class="portrait" textLength="348.8" lengthAdjust="spacingAndGlyphs">                                                                </text>
 </g>
-<text x="44" y="536" fill="#59636e" font-size="14" >economics / code / research</text>
-<text x="400" y="105" fill="#24292f" font-size="25" font-weight="600">Longye Tian</text>
-<text x="588" y="105" fill="#59636e" font-size="23" style="font-family: sans-serif">田垄业</text>
-<text x="400" y="149" fill="#953800" font-size="17" >Role</text>
-<text x="449.936" y="149" fill="#59636e" font-size="17" >....</text>
-<text x="505" y="149" fill="#0550ae" font-size="17" >PhD student in Economics</text>
-<text x="400" y="177" fill="#953800" font-size="17" >Host</text>
-<text x="449.936" y="177" fill="#59636e" font-size="17" >....</text>
-<text x="505" y="177" fill="#0550ae" font-size="17" >Australian National University</text>
-<text x="400" y="205" fill="#953800" font-size="17" >Code</text>
-<text x="449.936" y="205" fill="#59636e" font-size="17" >....</text>
-<text x="505" y="205" fill="#0550ae" font-size="17" >Lead Developer @ QuantEcon</text>
-<text x="400" y="256" fill="#1a7f37" font-size="17" >// Research</text>
-<path d="M534.4 251H950" stroke="#d1d9e0"/>
-<text x="400" y="289" fill="#953800" font-size="17" >Fields</text>
-<text x="470.404" y="289" fill="#59636e" font-size="17" >..</text>
-<text x="505" y="289" fill="#0550ae" font-size="17" >Inequality</text>
-<text x="505" y="317" fill="#0550ae" font-size="17" >Macroeconomic dynamics</text>
-<text x="505" y="345" fill="#0550ae" font-size="17" >Computational economics</text>
-<text x="400" y="381" fill="#953800" font-size="17" >Methods</text>
-<text x="480.638" y="381" fill="#59636e" font-size="17" >.</text>
-<text x="505" y="381" fill="#0550ae" font-size="17" >Markov dynamics</text>
-<text x="505" y="409" fill="#0550ae" font-size="17" >Dynamic programming</text>
-<text x="505" y="437" fill="#0550ae" font-size="17" >Reinforcement learning in economics</text>
-<text x="400" y="486" fill="#1a7f37" font-size="17" >// Contact</text>
-<path d="M523.2 481H950" stroke="#d1d9e0"/>
-<text x="400" y="518" fill="#953800" font-size="17" >Web</text>
-<text x="439.702" y="518" fill="#59636e" font-size="17" >.....</text>
-<text x="505" y="518" fill="#0550ae" font-size="17" >longyetian.com</text>
-<text x="400" y="546" fill="#953800" font-size="17" >Email</text>
-<text x="460.17" y="546" fill="#59636e" font-size="17" >...</text>
-<text x="505" y="546" fill="#0550ae" font-size="17" >longye.tian@anu.edu.au</text>
+<g fill="#24292f" class="information">
+<text x="390" y="30" xml:space="preserve"><tspan>longye@tian -————————————————————————————————————————————-</tspan></text>
+<text x="390" y="50" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Role</tspan><tspan>:</tspan><tspan class="cc"> .......................... </tspan><tspan class="value">PhD student in Economics</tspan></text>
+<text x="390" y="70" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Host</tspan><tspan>:</tspan><tspan class="cc"> .................... </tspan><tspan class="value">Australian National University</tspan></text>
+<text x="390" y="90" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">School</tspan><tspan>:</tspan><tspan class="cc"> .................... </tspan><tspan class="value">Research School of Economics</tspan></text>
+<text x="390" y="110" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Open Source</tspan><tspan>:</tspan><tspan class="cc"> .................................. </tspan><tspan class="value">QuantEcon</tspan></text>
+<text x="390" y="130" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Position</tspan><tspan>:</tspan><tspan class="cc"> ................................ </tspan><tspan class="value">Lead Developer</tspan></text>
+<text x="390" y="150" xml:space="preserve"><tspan class="cc">. </tspan></text>
+<text x="390" y="170" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Research</tspan><tspan>:</tspan><tspan class="cc"> .................................... </tspan><tspan class="value">Inequality</tspan></text>
+<text x="390" y="190" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Research</tspan><tspan>:</tspan><tspan class="cc"> ........................ </tspan><tspan class="value">Macroeconomic dynamics</tspan></text>
+<text x="390" y="210" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Research</tspan><tspan>:</tspan><tspan class="cc"> ....................... </tspan><tspan class="value">Computational economics</tspan></text>
+<text x="390" y="230" xml:space="preserve"><tspan class="cc">. </tspan></text>
+<text x="390" y="250" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Methods</tspan><tspan>.</tspan><tspan class="key">Dynamics</tspan><tspan>:</tspan><tspan class="cc"> ....................... </tspan><tspan class="value">Markov dynamics</tspan></text>
+<text x="390" y="270" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Methods</tspan><tspan>.</tspan><tspan class="key">Optimization</tspan><tspan>:</tspan><tspan class="cc"> ............... </tspan><tspan class="value">Dynamic programming</tspan></text>
+<text x="390" y="290" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Methods</tspan><tspan>.</tspan><tspan class="key">Learning</tspan><tspan>:</tspan><tspan class="cc"> ... </tspan><tspan class="value">Reinforcement learning in economics</tspan></text>
+<text x="390" y="310" xml:space="preserve"><tspan class="cc">. </tspan></text>
+<text x="390" y="330" xml:space="preserve"><tspan>- Contact -——————————————————————————————————————————————-</tspan></text>
+<text x="390" y="350" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Email</tspan><tspan>.</tspan><tspan class="key">Academic</tspan><tspan>:</tspan><tspan class="cc"> .................. </tspan><tspan class="value">longye.tian@anu.edu.au</tspan></text>
+<text x="390" y="370" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Website</tspan><tspan>:</tspan><tspan class="cc"> ................................. </tspan><tspan class="value">longyetian.com</tspan></text>
+<text x="390" y="390" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan>:</tspan><tspan class="cc"> ..................................... </tspan><tspan class="value">longye-tian</tspan></text>
+<text x="390" y="410" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Location</tspan><tspan>:</tspan><tspan class="cc"> ........................... </tspan><tspan class="value">Canberra, Australia</tspan></text>
+<text x="390" y="430" xml:space="preserve"><tspan class="cc">. </tspan></text>
+<text x="390" y="450" xml:space="preserve"><tspan>- Research Papers -——————————————————————————————————————-</tspan></text>
+<text x="390" y="470" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Theory</tspan><tspan>:</tspan><tspan class="cc"> ................. </tspan><tspan class="value">R&amp;R, Journal of Economic Theory</tspan></text>
+<text x="390" y="490" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Macro</tspan><tspan>:</tspan><tspan class="cc"> ................ </tspan><tspan class="value">Australian Economic Review (2026)</tspan></text>
+<text x="390" y="510" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Coauthors</tspan><tspan>:</tspan><tspan class="cc"> ................... </tspan><tspan class="value">Ian Crawford, James Morley</tspan></text>
+</g>
 </svg>
